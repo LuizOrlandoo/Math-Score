@@ -1,5 +1,5 @@
-# Open Food Chat 🍔
-ChatBot educacional para responder perguntas básicas sobre alimentos usando a base de dados Open Food Facts.
+# Students Performance Chat 📖
+ChatBot educacional para calcular e informar as notas dos alunos, usando a base de dados Students Performance in Exams.
 
 # Docs 📚
 
